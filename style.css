@@ -390,3 +390,8 @@ nav .fas{
     }
 
 } 
+#msg{
+    color: #d9d631;
+    margin-top: -40px;
+    display: block;
+}
