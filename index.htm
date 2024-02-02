@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>title</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/0a20d685da.js" crossorigin="anonymous"></script>
+
+  </head>
+  <body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="logo.png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p> WEB DEVWLOPER</p>
+                <h1>Hi, I'm <span>Mohan</span> Birajdar </h1>
+                
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img id="photo" src="passphoto.png">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About me</h1>
+                    <p>Hello! I’m Mohan Birajdar, a dedicated and enthusiastic student currently pursuing a Bachelor’s 
+                        degree in Electronics and Computer Engineering at MIT Aurangabad. With a strong foundation 
+                        laid during my 12th grade education, I have embarked on this exciting journey to further expand 
+                        my knowledge and skills in the aim of technology. My passion for electronics and computers 
+                        drives my commitment to excel in this field. I am eager to contribute my energy and learning to 
+                        meaningful project and opportunities. </p>
+                        <div class="tab-titles">
+                            <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                            <p class="tab-links " onclick="opentab('project')">project/experience</p>
+                            <p class="tab-links " onclick="opentab('education')">Education</p>
+                        </div>
+                        <div class="tab-contents active-tab" id="skills">
+                            <ul>
+                                <li><span>Web Developer</span> <br> Web app development</li>
+                                <li><span>App Development</span><br> Building Android application </li>
+                                <li><span>Java Developer</span><br>Building or developing software using Java</li>
+                                <li><span>Python / C </span>Python and c/C++ programming</li>
+                            </ul>
+                        </div>
+                        <div class="tab-contents" id="project">
+                            <ul>
+                                <li><span>Hotel mangement System</span> <br> Using C language i have created a hotel management system.</li>
+                                <li><span>My personal Audio player</span><br> Using Python i have made a personal Audio player.  </li>
+                                <li><span>Job Board/ Tribute page etc</span><br>To improve the skills in web development domain i have made these projects.</li>
+                                <li><span>Tic Tac Toe/ personal calculator etc.</span>TO improve logical resoning and skills in C++ i have done these projects.</li>
+                            </ul>
+                        </div>
+                        <div class="tab-contents" id="education">
+                            <ul>
+                                <li><span>10th</span> <br> Shaheed Bhagatsingh High School.</li>
+                                <li><span>12th</span><br> Chh. Shivaji College Balsur </li>
+                                <li><span>B-Tech</span><br>Maharashtra institute Of Technology Chh. Sambhajinagar.</li>
+                                
+                            </ul>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fa-solid fa-wand-magic-sparkles"></i>
+                    <h2>Web Designing</h2>
+                    <p>Welcome to my Web Development services! With a solid foundation gained through a month-long intensive internship, I bring a fresh perspective and practical skills to the world of web development.</p>
+                    <a href="#">learn more</a>
+                </div>
+                <div>
+                    <i class="fa-sharp fa-solid fa-mobile"></i>
+                    <h2>App Development</h2>
+                    <p>Welcome to my App Development services! With a solid foundation gained through Acadmic courses and other online courses, I bring a fresh perspective and practical skills to the world of Android development.</p>
+                    <a href="#">learn more</a>
+                </div>
+                <div>
+                    <i class="fa-sharp fa-solid fa-code"></i>
+                    <h2>Programming Based problem solving</h2>
+                    <p>Welcome to my Proramming based problem solving services! With a solid foundation gained in Python, Java, C, C++ etc through a month-long intensive internship or other courses, I bring a fresh perspective and practical skills to the world of Programming.</p>
+                    <a href="#">learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="portfolio">
+        <div class="container">
+           <h1 class="sub-title">My Work</h1>
+           <div class="work-list">
+            <div class="work">
+                <img src="hotel.jpg">
+                <div class="layer">
+                    <h3>Hotel management System</h3>
+                    <p> This was my first project, i had done the hotel management system using C language.<br> In this project an user can handle the overall system easily.</p>
+                    <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="job.jpeg">
+                <div class="layer">
+                    <h3>Job portal</h3>
+                    <p> Welcome to our cutting-edge Job Board Portal, a dynamic platform designed to revolutionize the job-seeking and hiring process.</p>
+                    <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="music.jpeg">
+                <div class="layer">
+                    <h3>Personal music Player</h3>
+                    <p> Introducing our Python Music Player, a sleek and straightforward application that brings music to your fingertips. Built with simplicity and functionality in mind, this project allows users to enjoy their favorite tunes with ease.</p>
+                    <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                </div>
+            </div>
+           </div>
+           <a href="#" class="btn"> See More</a>
+        </div>
+    </div>
+
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title"> Contact me</h1>
+                    <p> <i class="fa-solid fa-envelope"></i> mohanbirajdar@gmail.com</p>
+                    <p> <i class="fa-sharp fa-solid fa-phone-volume"></i> +918208211725</p>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/mohan.birajdar"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/mohan_birajdar"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/mohan-birajdar"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://github.com/Mohanbirajdar"><i class="fa-brands fa-github"></i></a>
+                    </div>
+                    <a href="C:\Users\mohan\Downloads\Portfolio\cvv.pdf" download class="btn btn2">Download CV</a>
+
+                </div>
+                <div class="contact-right">
+                    <form>
+                        <input type="text" name="Name" placeholder="Your name" required>
+                        <input type="email" name="email" placeholder="Your Email" required>
+                        <textarea name="message" rows="6" placeholder="Your message"></textarea>
+                        <button type="submit" class="btn btn2">Submit</button>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>Made by Mohan <i class="fa-solid fa-heart"></i> </p>
+        </div>
+    </div>
+
+
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+            }
+            for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+
+
+    </script>
+
+    <script>
+        var sidemenu = document.getElementById("sidemenu");
+        function openmenu(){
+            sidemenu.style.right="0";
+
+        }
+        function closemenu(){
+            sidemenu.style.right="-200px";
+            
+        }
+    </script>
+    
+  </body>
+</html>
