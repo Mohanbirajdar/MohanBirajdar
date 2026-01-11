@@ -108,7 +108,7 @@ A full-scale production platform for commercial mess business operations.
 ---
 
 ### 🎭 Ras Dandiya – Event Ticket Booking Platform
-**Malang Raas Dandiya 2025** | *September 2025*
+**Malang Raas Dandiya 2025(https://malangevents.com/)** | *September 2025*
 
 `React 19` `Vite 5` `React Router 7` `Tailwind CSS` `Framer Motion` `AOS` `AnimeJS` `Razorpay` `Supabase` `Netlify`
 
