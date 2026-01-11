@@ -24,6 +24,17 @@ Multidisciplinary Software Engineer with expertise spanning **Full Stack Develop
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| **B.E. Electronics & Computer Engineering** | Maharashtra Institute of Technology, Chh. Sambhajinagar | 2022 – 2026 | **CGPA: 9.4** |
+| *AI & ML Minor Specialization* | MIT | - | **Grade: A** |
+| **HSC (PCMB)** | Shree Chatrapati Shivaji College, Balsur | 2021 – 2022 | **70.50%** |
+| **SSC** | Shaheed Bhagatsingh High School | 2019 – 2020 | **89.40%** |
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Full Stack Development
@@ -97,7 +108,7 @@ A full-scale production platform for commercial mess business operations.
 ---
 
 ### 🎭 Ras Dandiya – Event Ticket Booking Platform
-**Malang Raas Dandiya 2025(https://malangevents.com/)** | *September 2025*
+**Malang Raas Dandiya 2025** | *September 2025*
 
 `React 19` `Vite 5` `React Router 7` `Tailwind CSS` `Framer Motion` `AOS` `AnimeJS` `Razorpay` `Supabase` `Netlify`
 
@@ -123,6 +134,52 @@ A complete ticket booking platform for an 8-day cultural event (24 Sep – 1 Oct
 - Framer Motion + AOS + AnimeJS for smooth animations
 - Supabase for asset management
 - Deployed on Netlify with optimized performance
+
+---
+
+### 💼 MIT FirstJob – AI-Powered Training & Placement Cell Management Platform
+**[mitfirstjob.free.nf](https://mitfirstjob.free.nf)**
+
+`Laravel 11` `PHP 8.3` `MySQL 8.0` `Tailwind CSS` `Google Gemini API` `Stripe` `PayPal` `Razorpay`
+
+A comprehensive full-stack job portal connecting employers with candidates, featuring AI-driven resume optimization.
+
+**Core Features:**
+- Multi-role system (Admin, Employers, Candidates) with Spatie role-based permissions
+- **AI Resume Builder:** Google Gemini-powered ATS optimization with keyword extraction, summary enhancement, and job tailoring
+- Job Management: Post, search, filter, and apply with real-time notifications
+- Payment Integration: Stripe, PayPal & Razorpay for premium subscriptions
+- Multi-language & multi-currency support
+
+**Technical Highlights:**
+- 7 AI-powered resume optimization features
+- 15+ database entities with proper relationships
+- RESTful API architecture with 50+ endpoints
+- Python-based ATS analyzer integration
+- Automated migrations with InfinityFree cloud hosting
+
+---
+
+### ☕ Coffee Blend – Full-Stack E-Commerce Coffee Shop Platform
+**[mycafe.free.nf](https://mycafe.free.nf)** | **[GitHub](https://github.com/Mohanbirajdar/CoffeeBlend)**
+
+`PHP 8.x` `MySQL` `PDO` `Bootstrap 4` `jQuery` `Owl Carousel` `AOS` `bcrypt`
+
+A complete e-commerce platform for coffee shop operations with shopping cart, reservations, and admin management.
+
+**Core Features:**
+- **Authentication:** Register/Login with bcrypt password hashing + session management
+- **Shop System:** Product catalog → Cart → Checkout flow
+- **Table Booking:** Reservations with date/time selection
+- **Admin Panel:** Full CRUD for products, orders, bookings, and admin users
+- **Reviews:** Customer testimonials displayed on homepage
+
+**Technical Implementation:**
+- 7 MySQL database tables with proper relationships
+- PDO prepared statements for SQL injection prevention
+- Session-based authentication with secure password hashing
+- Responsive UI with Bootstrap 4 and smooth AOS animations
+- Owl Carousel for dynamic content display
 
 ---
 
@@ -192,48 +249,13 @@ Embedded display system using multiplexed LED matrix.
 
 ---
 
-### 💼 MIT FirstJob – AI-Powered Training & Placement Cell Management Platform
-**[mitfirstjob.free.nf](https://mitfirstjob.free.nf)**
-
-`Laravel 11` `PHP 8.3` `MySQL 8.0` `Tailwind CSS` `Google Gemini API` `Stripe` `PayPal` `Razorpay`
-
-A comprehensive full-stack job portal connecting employers with candidates, featuring AI-driven resume optimization.
-
-**Core Features:**
-- Multi-role system (Admin, Employers, Candidates) with Spatie role-based permissions
-- **AI Resume Builder:** Google Gemini-powered ATS optimization with keyword extraction, summary enhancement, and job tailoring
-- Job Management: Post, search, filter, and apply with real-time notifications
-- Payment Integration: Stripe, PayPal & Razorpay for premium subscriptions
-- Multi-language & multi-currency support
-
-**Technical Highlights:**
-- 7 AI-powered resume optimization features
-- 15+ database entities with proper relationships
-- RESTful API architecture with 50+ endpoints
-- Python-based ATS analyzer integration
-- Automated migrations with InfinityFree cloud hosting
-
----
-
 ## 📚 Other Notable Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Coffee-Blend](https://mycafe.free.nf)** | Cafe management system | Laravel, PHP |
 | **[MIT News Platform](https://mohanbirajdar.github.io/MIT_News_Portal/)** | College news & events system | HTML, CSS, JS |
 | **MediAlert** | Health monitoring system | IoT, Sensors |
 | **PhysicianData Platform** | Subscription-based data selling | Laravel, PayPal API |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| **B.E. Electronics & Computer Engineering** | Maharashtra Institute of Technology, Chh. Sambhajinagar | 2022 – 2026 | **CGPA: 9.4** |
-| *AI & ML Minor Specialization* | MIT | - | **Grade: A** |
-| **HSC (PCMB)** | Shree Chatrapati Shivaji College, Balsur | 2021 – 2022 | **70.50%** |
-| **SSC** | Shaheed Bhagatsingh High School | 2019 – 2020 | **89.40%** |
 
 ---
 
