@@ -96,6 +96,36 @@ A full-scale production platform for commercial mess business operations.
 
 ---
 
+### 🎭 Ras Dandiya – Event Ticket Booking Platform
+**Malang Raas Dandiya 2025(https://malangevents.com/)** | *September 2025*
+
+`React 19` `Vite 5` `React Router 7` `Tailwind CSS` `Framer Motion` `AOS` `AnimeJS` `Razorpay` `Supabase` `Netlify`
+
+A complete ticket booking platform for an 8-day cultural event (24 Sep – 1 Oct 2025).
+
+**Core Features:**
+- Multi-step booking flow with real-time validation
+- **Razorpay payment integration** for secure transactions
+- QR-based e-tickets with scanner functionality
+- Video hero section with immersive animations
+- Google Maps integration for venue navigation
+- Gmail validation for user verification
+- Fully responsive mobile-first design
+
+**Ticket Options:**
+- Multiple ticket types: Female, Male, Couple, Kids, Family
+- Single day & Season pass pricing
+- Group discount offers
+
+**Technical Implementation:**
+- 6 modular React components with clean architecture
+- RESTful API with 6 backend endpoints
+- Framer Motion + AOS + AnimeJS for smooth animations
+- Supabase for asset management
+- Deployed on Netlify with optimized performance
+
+---
+
 ### 🚗 LimitLock – IoT Vehicle Speed Monitoring System
 *October 2024 – February 2025*
 
