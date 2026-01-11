@@ -162,11 +162,33 @@ Embedded display system using multiplexed LED matrix.
 
 ---
 
+### 💼 MIT FirstJob – AI-Powered Training & Placement Cell Management Platform
+**[mitfirstjob.free.nf](https://mitfirstjob.free.nf)**
+
+`Laravel 11` `PHP 8.3` `MySQL 8.0` `Tailwind CSS` `Google Gemini API` `Stripe` `PayPal` `Razorpay`
+
+A comprehensive full-stack job portal connecting employers with candidates, featuring AI-driven resume optimization.
+
+**Core Features:**
+- Multi-role system (Admin, Employers, Candidates) with Spatie role-based permissions
+- **AI Resume Builder:** Google Gemini-powered ATS optimization with keyword extraction, summary enhancement, and job tailoring
+- Job Management: Post, search, filter, and apply with real-time notifications
+- Payment Integration: Stripe, PayPal & Razorpay for premium subscriptions
+- Multi-language & multi-currency support
+
+**Technical Highlights:**
+- 7 AI-powered resume optimization features
+- 15+ database entities with proper relationships
+- RESTful API architecture with 50+ endpoints
+- Python-based ATS analyzer integration
+- Automated migrations with InfinityFree cloud hosting
+
+---
+
 ## 📚 Other Notable Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[1stJob](https://mitfirstjob.free.nf)** | Laravel-based recruitment platform | Laravel, PHP, MySQL |
 | **[Coffee-Blend](https://mycafe.free.nf)** | Cafe management system | Laravel, PHP |
 | **[MIT News Platform](https://mohanbirajdar.github.io/MIT_News_Portal/)** | College news & events system | HTML, CSS, JS |
 | **MediAlert** | Health monitoring system | IoT, Sensors |
