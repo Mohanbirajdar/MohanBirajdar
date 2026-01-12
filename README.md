@@ -298,6 +298,6 @@ Embedded display system using multiplexed LED matrix.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-birajdar/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohanbirajdar41@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://mohanbirajdar.github.io/Mohan/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://mohanbirajdar.vercel.app)
 
 </div>
